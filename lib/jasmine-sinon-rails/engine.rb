@@ -6,4 +6,4 @@ module Jasmine
       end
     end
   end
-module
+end
