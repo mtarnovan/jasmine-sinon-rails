@@ -1,4 +1,4 @@
 jasmine-sinon-rails
 ===================
 
-Adds Sinone matchers for Jasmine to Rails asset pipeline
+jasmine-sinon.js matchers via Rails 3.1+ asset pipeline
