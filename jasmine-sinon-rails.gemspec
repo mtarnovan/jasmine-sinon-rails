@@ -12,5 +12,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   gem.name          = "jasmine-sinon-rails"
   gem.require_paths = ["lib"]
-  gem.version       = JasmineSinon::Rails::VERSION
+  gem.version       = Jasmine::Sinon::Rails::VERSION
 end
