@@ -1,14 +1,16 @@
 jasmine-sinon-rails
 ===================
 
-jasmine-sinon matchers via Rails 3.1+ asset pipeline
+Includes jasmine-sinon matchers from https://github.com/froots/jasmine-sinon for the Rails 3.1+ asset pipeline.
 
-See https://github.com/froots/jasmine-sinon
+Installation
+============
 
-In Gemfile... you know the drill.
+1. Add ```gem 'jasmine-sinon-rails'``` to your gemfile
+2. Run bundle install
+3. Add ```#= require jasmine-sinon``` to your spec manifest
 
-Then put
+Usage
+=====
 
-#= require jasmine-sinon
-
-in you spec manifest.
+For documentation on jasmine-sinon visit https://github.com/froots/jasmine-sinon .
